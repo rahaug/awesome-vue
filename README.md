@@ -416,6 +416,9 @@
 - [SPA Application using Vue.js, Vuex, Vuetify, and Firebase (Part 3)](https://www.jenniferbland.com/spa-application-using-vue-js-vuex-vuetify-and-firebase-part-3/) by Jennifer Bland [@ratracegrad](https://github.com/ratracegrad). (November 2018)
 - [SPA Application using Vue.js, Vuex, Vuetify, and Firebase (Part 4)](https://www.jenniferbland.com/spa-application-using-vue-js-vuex-vuetify-and-firebase-part-4/) by Jennifer Bland [@ratracegrad](https://github.com/ratracegrad). (November 2018)
 - [Adding Internationalization to a Vue Application](https://www.jenniferbland.com/adding-internationalization-to-a-vue-application/) by Jennifer Bland [@ratracegrad](https://github.com/ratracegrad). (November 2018)
+- [Nuxt.js Fundamentals](https://vueschool.io/courses/nuxtjs-fundamentals) by [Vue School](https://vueschool.io)
+- [Async Data with Nuxt.js](https://vueschool.io/courses/async-data-with-nuxtjs) by [Vue School](https://vueschool.io)
+- [Static Site Generation with Nuxt.js](https://vueschool.io/courses/static-site-generation-with-nuxtjs) by [Vue School](https://vueschool.io)
 
 ### Examples
 - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
